@@ -1,0 +1,23 @@
+body{
+  background: #F0A654;
+  margin: auto;
+}
+h1{
+  font-family: cursive;
+  font-size: 80px;
+  text-align: center;
+  margin-top: 200px;
+  text-decoration: none;
+}
+a{
+  font-family: arial;
+  font-size: 40px;
+  display: block;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-decoration: none;
+  background: #A5EBFF;
+  color: #000000;
+}

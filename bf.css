@@ -1,0 +1,48 @@
+body{
+  background: #FFD2B8;
+  margin: auto;
+}
+h1.head{
+  font-size: 50px;
+  font-family: cursive;
+  text-align: center;
+  margin: 0px;
+  background: #ADB4FF;
+}
+h4.parents{
+  font-size: 20px;
+  font-family: arial;
+  text-decoration: none;
+  margin: 0px;
+  margin-top: 50px;
+  text-align: center;
+}
+.Mother{
+  font-size: 15px;
+  font-family: serif;
+  text-decoration: none;
+  margin-top: 0px;
+}
+.Father{
+  font-size: 15px;
+  font-family: serif;
+  text-decoration: none;
+  margin-top: 30px;
+}
+a.NB{
+  font-size: 20px;
+  font-family: serif;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  color: #000;
+  background: #91BEFF;
+  margin-top: 100px;
+  
+}
+a.NB:hover{
+  color: #FFFFFF;
+  background: #557C84;
+}
